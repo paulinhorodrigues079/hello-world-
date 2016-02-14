@@ -1,2 +1,3 @@
 # hello-world-
-Testee comandos no github
+Teste comandos no github
+Arrumando a gramática, pois tinha escrito testee
